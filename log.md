@@ -4,7 +4,7 @@
 
 **Today's Progress**: Currently 187 coding challenges into Freecodecamp. 
 
-**Thoughts:** Want to learn something in addition to CSS.
+**Thoughts:** Want to learn java soon in addition to CSS.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
