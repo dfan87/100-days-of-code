@@ -2,7 +2,7 @@
 
 ### Day 0: November 21, 2018 
 
-**Today's Progress**: Currently 187 coding challenges into Freecodecamp. Completed up to 191.
+**Today's Progress**: Currently 187 coding challenges into Freecodecamp. Completed up to 191. Going to begin working on tribute bage assignment on day 2.
 
 **Thoughts:** Want to learn java soon in addition to CSS.
 
