@@ -6,8 +6,5 @@
 
 **Thoughts:** Want to learn java soon in addition to CSS.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://codepen.io/dfan87/pen/GwQGNe
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
