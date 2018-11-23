@@ -8,3 +8,10 @@
 
 **Link to work:** https://codepen.io/dfan87/pen/GwQGNe
 
+# Day 1 November 23, 2018
+
+**Today's Progress**: Created a tribute page. 
+
+**Thoughts:** Need to deepen understanding of CSS properties
+
+**Link to work:** https://codepen.io/dfan87/pen/GwQGNe
