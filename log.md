@@ -12,6 +12,6 @@
 
 **Today's Progress**: Created a tribute page. 
 
-**Thoughts:** Need to deepen understanding of CSS properties. Plan to work on snatch tomorrow for CS150.
+**Thoughts:** Need to deepen understanding of CSS properties. Plan to work on snatch tomorrow for CS50.
 
 **Link to work:** https://codepen.io/dfan87/pen/GwQGNe
