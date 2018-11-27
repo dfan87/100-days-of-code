@@ -15,3 +15,11 @@
 **Thoughts:** Need to deepen understanding of CSS properties. Plan to work on snatch tomorrow for CS50.
 
 **Link to work:** https://codepen.io/dfan87/pen/GwQGNe
+
+# Day 3 November 26, 2018
+
+**Today's Progress**: Working on Snatch project
+
+**Thoughts:** Project finished. Going to upload and watch next CS50 lesson
+
+**Link to work:** https://codepen.io/dfan87/pen/GwQGNe
