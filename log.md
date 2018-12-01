@@ -23,3 +23,10 @@
 **Thoughts:** Project finished. Going to upload and watch next CS50 lesson
 
 **Link to work:** https://codepen.io/dfan87/pen/GwQGNe
+
+# Day 4 November 30, 2018
+
+**Today's Progress**: submitted Snatch project to github completed CS50 problem 0
+
+**Thoughts:** trying to get back into the swing of it. Currently buying a house.
+
