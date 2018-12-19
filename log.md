@@ -30,3 +30,7 @@
 
 **Thoughts:** trying to get back into the swing of it. Currently buying a house.
 
+# Day 5 December 8, 2018
+**Today's progress:** week 1 of CS50 problem 1. Very difficult, required a lot of research for pyramid and greed problem.
+**Thought:** Need to get back to studying this stuff. focus focus focus.
+
