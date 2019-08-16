@@ -2,7 +2,7 @@
 
 ### Day 14: August 15, 2019
 
-**Today's Progress**: #100daysofcode Day 14 into new 100. Currently 187 coding challenges into Freecodecamp. Completed up to 191. Working on Tribute page project for @FreeCodeCamp. HTML section is finished. Even though it would be so easy to copy, I'm going to go through the CSS section and hand type to get a better understanding. 
+**Today's Progress**: #100daysofcode Day 15. Working on Tribute page project for @FreeCodeCamp. HTML section is finished. Even though it would be so easy to copy/paste from the example, I'm going to go through the CSS section and hand type to get a better understanding of what is effected. 
 
 **Thoughts:** 
 
